@@ -1,0 +1,1 @@
+const Community = () => <section id='community' className='py-20 bg-black text-white text-center'><h2 className='text-3xl font-bold mb-4'>Community Voices</h2><p className='text-gray-300'>What our community says about the power of sharing success.</p></section>; export default Community;

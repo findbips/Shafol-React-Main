@@ -1,0 +1,1 @@
+const Submit = () => <section id='submit' className='py-20 text-white bg-[#0A0A0A] text-center'><h2 className='text-3xl font-bold mb-4'>Are you Shafol?</h2><p className='text-gray-300'>Submit your inspiring story today.</p></section>; export default Submit;

@@ -1,0 +1,1 @@
+const About = () => <section id='about' className='py-20 text-white bg-[#0A0A0A] text-center'><h2 className='text-3xl font-bold mb-4'>Our Mission</h2><p className='text-gray-300'>Celebrating real success stories from Bangladesh.</p></section>; export default About;

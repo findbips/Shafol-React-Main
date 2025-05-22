@@ -1,0 +1,1 @@
+const Stories = () => <section id='stories' className='py-20 bg-black text-white text-center'><h2 className='text-3xl font-bold mb-4'>Success Stories</h2><p className='text-gray-300'>Inspiring journeys of determination and achievement.</p></section>; export default Stories;
